@@ -9,6 +9,7 @@
 		<PackageProjectUrl>https://avaloniaui.net</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/AvaloniaUI/angle/</RepositoryUrl>
 		<PackageIcon>Icon.png</PackageIcon>
+        <PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
 		<PackageDescription>Avalonia is a cross-platform UI framework for .NET providing a flexible styling system and supporting a wide range of Operating Systems such as Windows, Linux, macOS and with experimental support for Android, iOS and WebAssembly.</PackageDescription>
 	</PropertyGroup>
